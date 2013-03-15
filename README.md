@@ -1,2 +1,2 @@
-weather-forecast-sample
+grails weather-forecast-sample
 =======================
