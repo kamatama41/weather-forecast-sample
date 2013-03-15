@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="GrailsWeb">
+      <configuration>
+        <webroots>
+          <root url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/jquery-1.7.2/web-app" relative="/" />
+          <root url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/database-migration-1.1/grails-app/views" relative="/" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/cache-1.0.0">
+      <sourceFolder url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/cache-1.0.0/src/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/cache-1.0.0/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/cache-1.0.0/grails-app/services" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/cache-1.0.0/grails-app/taglib" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/database-migration-1.1">
+      <sourceFolder url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/database-migration-1.1/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/database-migration-1.1/grails-app/controllers" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/hibernate-2.1.0">
+      <sourceFolder url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/hibernate-2.1.0/grails-app/i18n" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/jquery-1.7.2">
+      <sourceFolder url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/jquery-1.7.2/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/jquery-1.7.2/grails-app/i18n" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/jquery-1.7.2/grails-app/services" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/jquery-1.7.2/grails-app/taglib" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/resources-1.1.6">
+      <sourceFolder url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/resources-1.1.6/src/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/resources-1.1.6/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/resources-1.1.6/grails-app/i18n" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/resources-1.1.6/grails-app/taglib" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/tomcat-2.1.0" />
+    <content url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/webxml-1.4.1">
+      <sourceFolder url="file://$USER_HOME$/.grails/2.1.0/projects/weather-frecast-sample/plugins/webxml-1.4.1/src/groovy" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="grails-2.1.0" level="application" />
+    <orderEntry type="module-library" exported="">
+      <library name="Grails User Library (weather-forecast-sample-grailsPlugins)">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.liquibase/liquibase-core/jars/liquibase-core-2.0.5.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.codehaus.jackson/jackson-xc/jars/jackson-xc-1.9.8.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.codehaus.jackson/jackson-jaxrs/jars/jackson-jaxrs-1.9.8.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.codehaus.jackson/jackson-mapper-asl/jars/jackson-mapper-asl-1.9.8.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.codehaus.jackson/jackson-core-asl/jars/jackson-core-asl-1.9.8.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.glassfish.jersey.media/jersey-media-json-jackson/jars/jersey-media-json-jackson-2.0-m13.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.glassfish.hk2.external/cglib/jars/cglib-2.1.64.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.glassfish.hk2.external/asm-all-repackaged/jars/asm-all-repackaged-2.1.64.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.glassfish.hk2.external/javax.inject/jars/javax.inject-2.1.64.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.glassfish.hk2/hk2-locator/jars/hk2-locator-2.1.64.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.glassfish.hk2/hk2-utils/jars/hk2-utils-2.1.64.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/javax.inject/javax.inject/jars/javax.inject-1.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.glassfish.hk2/osgi-resource-locator/jars/osgi-resource-locator-1.0.1.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.glassfish.hk2/hk2-api/jars/hk2-api-2.1.64.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/com.google.guava/guava/jars/guava-13.0.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/javax.annotation/javax.annotation-api/jars/javax.annotation-api-1.2-b02.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/javax.ws.rs/javax.ws.rs-api/jars/javax.ws.rs-api-2.0-rc1.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.glassfish.jersey.core/jersey-common/jars/jersey-common-2.0-m13.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.glassfish.jersey.core/jersey-client/jars/jersey-client-2.0-m13.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
